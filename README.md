@@ -12,7 +12,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
-**🇬🇧 English** | [🇮🇷 فارسی](README.en.md)
+**🇬🇧 English** | [🇮🇷 فارسی](https://github.com/HosseinHeydari2004/RAG-Tutorial-From-Zero-to-Advanced/blob/main/REAMME.md)
 
 [Quick Start](#-quick-start) •
 [Lessons](#-lessons) •
