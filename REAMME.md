@@ -96,7 +96,7 @@ cd RAG-Tutorial-From-Zero-to-Advanced
 
 # ۲) محیط مجازی
 python -m venv .venv
-source .venv/bin/activate        # ویندوز: .venv\Scripts\activate
+data .venv/bin/activate        # ویندوز: .venv\Scripts\activate
 
 # ۳) نصب
 pip install -r requirements.txt
