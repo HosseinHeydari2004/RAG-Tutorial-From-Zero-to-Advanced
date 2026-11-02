@@ -114,7 +114,7 @@ jupyter lab
 
 | # | Lesson | What you build | Status |
 |:-:|---|---|:-:|
-| 00 | RAG in 20 lines | Your first answer grounded in external knowledge | 📅 |
+| 00 | RAG in 20 lines | Your first answer grounded in external knowledge | ✅ |
 | 01 | Core concepts | Hallucination, context window, RAG vs. fine-tuning | 📅 |
 
 ### Level 1: Data ingestion
