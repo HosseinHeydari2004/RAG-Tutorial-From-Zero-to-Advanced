@@ -124,7 +124,7 @@ jupyter lab
 | 02 | [Loading](notebooks/02_loading.ipynb) | Read PDFs and files into a uniform structure | ✅ |
 | 03 | [Parsing](notebooks/03_parsing.ipynb) | Extract structure: titles, tables, lists | ✅ |
 | 04 | [Cleaning](notebooks/04_cleaning.ipynb) | Remove noise and normalize text | ✅ |
-| 05 | [Metadata](notebooks/05_metadata.ipynb) | Tag content for filtering and citations | 🚧 |
+| 05 | [Metadata](notebooks/05_metadata.ipynb) | Tag content for filtering and citations | ✅ |
 | 06 | [Chunking](notebooks/06_chunking.ipynb) | Fixed, Recursive, Token, Semantic, Document-based | 🚧 |
 
 ### Level 2: The RAG core
