@@ -131,7 +131,7 @@ jupyter lab
 
 | # | Lesson | What you build | Status |
 |:-:|---|---|:-:|
-| 07 | Embeddings | Turn text into vectors | ✅ |
+| 07 | [Embeddings](notebooks/07_embeddings.ipynb) | Turn text into vectors | ✅ |
 | 08 | Choosing an embedding model | Compare multilingual and Persian-capable models | 📅 |
 | 09 | Vector DBs | Store and search with FAISS and Chroma | 📅 |
 | 10 | Similarity & indexing | Cosine, ANN, HNSW | 📅 |
