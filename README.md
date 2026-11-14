@@ -294,13 +294,6 @@ Explanations are in Persian; code, identifiers, and technical terms are in Engli
 
 ---
 
-## 👨‍💻 Author
-
-**Hossein Heydari**: computer engineering student, co-founder and Technical Lead of **AI Builders Iran**, an open-source AI engineering organization (Computer Vision, LLMs, RAG, and Agents).
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hossein--heydari2004-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hossein-heydari2004)
-[![GitHub](https://img.shields.io/badge/GitHub-HosseinHeydari2004-181717?style=flat-square&logo=github)](https://github.com/HosseinHeydari2004)
-
 ## 📄 License
 
 Released under the [MIT License](LICENSE).
