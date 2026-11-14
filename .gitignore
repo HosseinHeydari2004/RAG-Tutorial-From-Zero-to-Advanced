@@ -1,3 +1,5 @@
 .idea/
 .env
 venv/
+notebooks/chroma_db/
+notebooks/handbook.faiss
