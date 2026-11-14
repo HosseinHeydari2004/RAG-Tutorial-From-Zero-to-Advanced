@@ -132,13 +132,8 @@ jupyter lab
 | # | Lesson | What you build | Status |
 |:-:|---|---|:-:|
 | 07 | [Embeddings](notebooks/07_embeddings.ipynb) | Turn text into vectors | ✅ |
-<<<<<<< HEAD
 | 08 | Choosing an embedding model | Compare multilingual and Persian-capable models | ✅ |
 | 09 | Vector DBs | Store and search with FAISS and Chroma | ✅ |
-=======
-| 08 | [Choosing an embedding model](notebooks/08_choosing_embedding_model.ipynb) | Compare multilingual and Persian-capable models | ✅ |
-| 09 | Vector DBs | Store and search with FAISS and Chroma | 📅 |
->>>>>>> 6cef528155e12c4da34cbe454f98314ccacb4f49
 | 10 | Similarity & indexing | Cosine, ANN, HNSW | 📅 |
 | 11 | Basic retrieval | Top-k and metadata filtering | 📅 |
 | 12 | Generation | Prompting, citing sources, saying "I don't know" | 📅 |
