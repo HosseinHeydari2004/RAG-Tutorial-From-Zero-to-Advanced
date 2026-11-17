@@ -10,6 +10,8 @@
 [![Forks](https://img.shields.io/github/forks/HosseinHeydari2004/RAG-Tutorial-From-Zero-to-Advanced?style=for-the-badge&logo=github)](https://github.com/HosseinHeydari2004/RAG-Tutorial-From-Zero-to-Advanced/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-1C3C3C?style=for-the-badge&logo=bookstack&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
 **🇬🇧 English** | [🇮🇷 فارسی](https://github.com/HosseinHeydari2004/RAG-Tutorial-From-Zero-to-Advanced/blob/main/REAMME.md)
