@@ -138,7 +138,7 @@ jupyter lab
 | 09 | [Vector DBs](notebooks/09_vector_databases.ipynb) | Store and search with FAISS and Chroma | ✅ |
 | 10 | [Similarity & indexing](notebooks/10_similarity_and_indexing.ipynb) | Cosine, ANN, HNSW | ✅ |
 | 11 | [Basic retrieval](notebooks/11_retrieval_basics.ipynb) | Top-k and metadata filtering | ✅ |
-| 12 | Generation | Prompting, citing sources, saying "I don't know" | 📅 |
+| 12 | Generation | Prompting, citing sources, saying "I don't know" | ✅ |
 | 13 | The full RAG pipeline | Wire every stage into one pipeline | 📅 |
 
 ### Level 3: Evaluation
@@ -217,7 +217,7 @@ Every notebook follows the same template, so after two lessons you know where ev
 
 ## 🧭 Roadmap
 
-- [ ] **v1.0:** lessons 00–13, a complete working RAG
+- [✔️] **v1.0:** lessons 00–13, a complete working RAG
 - [ ] **v1.1:** lessons 14–17, evaluation
 - [ ] **v1.2:** lessons 18–22, better retrieval
 - [ ] **v2.0:** lessons 23–34, advanced topics, production, and the final project
