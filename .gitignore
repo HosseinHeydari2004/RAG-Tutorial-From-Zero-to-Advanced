@@ -3,3 +3,4 @@
 venv/
 notebooks/chroma_db/
 notebooks/handbook.faiss
+notebooks/English/chroma_db/

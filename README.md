@@ -147,7 +147,7 @@ jupyter lab
 | 10 | [Similarity & indexing](notebooks/English/10_similarity_and_indexing.ipynb) | Cosine, ANN, HNSW | ✅ |
 | 11 | [Basic retrieval](notebooks/English/11_retrieval_basics.ipynb) | Top-k and metadata filtering | ✅ |
 | 12 | [Generation](notebooks/English/12_generation.ipynb) | Prompting, citing sources, saying "I don't know" | ✅ |
-| 13 | The full RAG pipeline | Wire every stage into one pipeline | 📅 |
+| 13 | [The full RAG pipeline](notebooks/English/13_full_rag_pipeline.ipynb) | Wire every stage into one pipeline | ✅ |
 
 ### Level 3: Evaluation
 
