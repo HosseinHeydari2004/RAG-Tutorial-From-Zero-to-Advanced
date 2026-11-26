@@ -124,29 +124,29 @@ jupyter lab
 
 | # | Lesson | What you build | Status |
 |:-:|---|---|:-:|
-| 00 | [RAG in 20 lines](English/notebooks/00_rag_in_20_lines.ipynb) | Your first answer grounded in external knowledge | ✅ |
-| 01 | [Core concepts](English/notebooks/01_core_concepts.ipynb) | Hallucination, context window, RAG vs. fine-tuning | ✅ |
+| 00 | [RAG in 20 lines](notebooks/English/00_rag_in_20_lines.ipynb) | Your first answer grounded in external knowledge | ✅ |
+| 01 | [Core concepts](notebooks/English/01_core_concepts.ipynb) | Hallucination, context window, RAG vs. fine-tuning | ✅ |
 
 ### Level 1: Data ingestion
 
 | # | Lesson | What you build | Status |
 |:-:|---|---|:-:|
-| 02 | [Loading](English/notebooks/02_loading.ipynb) | Read PDFs and files into a uniform structure | ✅ |
-| 03 | [Parsing](English/notebooks/03_parsing.ipynb) | Extract structure: titles, tables, lists | ✅ |
-| 04 | [Cleaning](English/notebooks/04_cleaning.ipynb) | Remove noise and normalize text | ✅ |
-| 05 | [Metadata](English/notebooks/05_metadata.ipynb) | Tag content for filtering and citations | ✅ |
-| 06 | [Chunking](English/notebooks/06_chunking.ipynb) | Fixed, Recursive, Token, Semantic, Document-based | ✅ |
+| 02 | [Loading](notebooks/English/02_loading.ipynb) | Read PDFs and files into a uniform structure | ✅ |
+| 03 | [Parsing](notebooks/English/03_parsing.ipynb) | Extract structure: titles, tables, lists | ✅ |
+| 04 | [Cleaning](notebooks/English/04_cleaning.ipynb) | Remove noise and normalize text | ✅ |
+| 05 | [Metadata](notebooks/English/05_metadata.ipynb) | Tag content for filtering and citations | ✅ |
+| 06 | [Chunking](notebooks/English/06_chunking.ipynb) | Fixed, Recursive, Token, Semantic, Document-based | ✅ |
 
 ### Level 2: The RAG core
 
 | # | Lesson | What you build | Status |
 |:-:|---|---|:-:|
-| 07 | [Embeddings](English/notebooks/07_embeddings.ipynb) | Turn text into vectors | ✅ |
-| 08 | [Choosing an embedding model](English/notebooks/08_choosing_embedding_model.ipynb) | Compare multilingual and Persian-capable models | ✅ |
-| 09 | [Vector DBs](English/notebooks/09_vector_databases.ipynb) | Store and search with FAISS and Chroma | ✅ |
-| 10 | [Similarity & indexing](English/notebooks/10_similarity_and_indexing.ipynb) | Cosine, ANN, HNSW | ✅ |
-| 11 | [Basic retrieval](English/notebooks/11_retrieval_basics.ipynb) | Top-k and metadata filtering | ✅ |
-| 12 | [Generation](English/notebooks/12_generation.ipynb) | Prompting, citing sources, saying "I don't know" | ✅ |
+| 07 | [Embeddings](notebooks/English/07_embeddings.ipynb) | Turn text into vectors | ✅ |
+| 08 | [Choosing an embedding model](notebooks/English/08_choosing_embedding_model.ipynb) | Compare multilingual and Persian-capable models | ✅ |
+| 09 | [Vector DBs](notebooks/English/09_vector_databases.ipynb) | Store and search with FAISS and Chroma | ✅ |
+| 10 | [Similarity & indexing](notebooks/English/10_similarity_and_indexing.ipynb) | Cosine, ANN, HNSW | ✅ |
+| 11 | [Basic retrieval](notebooks/English/11_retrieval_basics.ipynb) | Top-k and metadata filtering | ✅ |
+| 12 | [Generation](notebooks/English/12_generation.ipynb) | Prompting, citing sources, saying "I don't know" | ✅ |
 | 13 | The full RAG pipeline | Wire every stage into one pipeline | 📅 |
 
 ### Level 3: Evaluation
