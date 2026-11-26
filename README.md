@@ -23,6 +23,14 @@
 
 </div>
 
+<p align="center">
+  <img
+    src="assets/rag_tutorial_readme_banner.png"
+    alt="RAG: From Zero to Advanced"
+    width="100%"
+  />
+</p>
+
 ---
 
 ## 🤔 What is this?
